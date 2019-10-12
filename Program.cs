@@ -20,8 +20,8 @@ namespace katas
                                        { 1, 0, 1, 0, 1, 0, 1 },
                                        { 1, 0, 0, 0, 0, 0, 1 },
                                        { 1, 2, 1, 0, 1, 0, 1 } };
-            //string[] directions = new string[] { "N", "N", "N", "N", "N", "E", "E", "E", "E", "E" };
-            string[] directions = new string[] { "N","N","N","N","N","E","E","E","E","E","W","W" };
+            string[] directions = new string[] { "N", "N", "N", "N", "N", "E", "E", "E", "E", "E" };
+            //string[] directions = new string[] { "N","N","N","N","N","E","E","E","E","E","W","W" };
 
             Console.WriteLine(mazeRunner(maze, directions));
         }
