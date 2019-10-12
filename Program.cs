@@ -6,13 +6,12 @@ namespace katas
     {
         static void Main(string[] args)
         {
-            /*int[] testArray = new int[5] {1,2,3,4,5};
-            //int[] testArray = new int[6] {-9,9,-8,8,66,23};
+            
+        }
 
-            int[] result = FoldArray(testArray, 2);
-
-            foreach(var e in result)
-                Console.Write(e); */
+        public static string mazeRunner(int[,] maze, string[] directions)
+        {
+            /*
             int[,] maze = new int[,] { { 1, 1, 1, 1, 1, 1, 1 },
                                        { 1, 0, 0, 0, 0, 0, 3 },
                                        { 1, 0, 1, 0, 1, 0, 1 },
@@ -24,10 +23,7 @@ namespace katas
             //string[] directions = new string[] { "N","N","N","N","N","E","E","E","E","E","W","W" };
 
             Console.WriteLine(mazeRunner(maze, directions));
-        }
-
-        public static string mazeRunner(int[,] maze, string[] directions)
-        {
+            */
             Tuple<int, int> currentPosition = GetStartPosition(maze);
             Tuple<int, int> testPosition;
             
@@ -103,6 +99,13 @@ namespace katas
 
         public static int[] FoldArray(int[] array, int runs)
         {
+            /*int[] testArray = new int[5] {1,2,3,4,5};
+            //int[] testArray = new int[6] {-9,9,-8,8,66,23};
+
+            int[] result = FoldArray(testArray, 2);
+
+            foreach(var e in result)
+                Console.Write(e); */
             int[] tmpArray = array;
             do {
                 tmpArray = PerformFold(tmpArray);
