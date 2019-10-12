@@ -1,0 +1,11 @@
+C:\Users\merse\Documents\GitHub\katas\bin\Debug\netcoreapp3.0\katas.exe
+C:\Users\merse\Documents\GitHub\katas\bin\Debug\netcoreapp3.0\katas.deps.json
+C:\Users\merse\Documents\GitHub\katas\bin\Debug\netcoreapp3.0\katas.runtimeconfig.json
+C:\Users\merse\Documents\GitHub\katas\bin\Debug\netcoreapp3.0\katas.runtimeconfig.dev.json
+C:\Users\merse\Documents\GitHub\katas\bin\Debug\netcoreapp3.0\katas.dll
+C:\Users\merse\Documents\GitHub\katas\bin\Debug\netcoreapp3.0\katas.pdb
+C:\Users\merse\Documents\GitHub\katas\obj\Debug\netcoreapp3.0\katas.csprojAssemblyReference.cache
+C:\Users\merse\Documents\GitHub\katas\obj\Debug\netcoreapp3.0\katas.AssemblyInfoInputs.cache
+C:\Users\merse\Documents\GitHub\katas\obj\Debug\netcoreapp3.0\katas.AssemblyInfo.cs
+C:\Users\merse\Documents\GitHub\katas\obj\Debug\netcoreapp3.0\katas.dll
+C:\Users\merse\Documents\GitHub\katas\obj\Debug\netcoreapp3.0\katas.pdb
